@@ -6,8 +6,8 @@
         "carType": "Van",
         "powSource": "Gas",
         "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "transmission": "69",
+        "range": "NA"
       },
       {
         "name": "Honda Civic",
@@ -91,3 +91,4 @@
         "range": "62"
       }
     ]
+}
