@@ -2,12 +2,12 @@
     "Car Info": [
       {
         "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
+        "mileage": "31",
+        "carType": "Sedan",
         "powSource": "Gas",
         "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "transmission": "Automatic",
+        "range": "N/A"
       },
       {
         "name": "Honda Civic",
@@ -88,6 +88,6 @@
         "powSource": "Gas",
         "people": "5",
         "transmission": "Blabla",
-        "range": "62"
-      }
-    ]
+        "range": "62" 
+      } ]
+   }   
