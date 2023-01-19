@@ -6,8 +6,8 @@
         "carType": "Van",
         "powSource": "Gas",
         "people": "5",
-        "transmission": "69",
-        "range": "NA"
+        "transmission": "Automatic",
+        "range": "N/A"
       },
       {
         "name": "Honda Civic",
