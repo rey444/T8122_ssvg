@@ -34,16 +34,7 @@ class CarInfo:
         self.user_data['milePref'] =  answer
         self.user_data['typePref'] =  QnA['answer']
         self.user_data['powPref'] =  QnA['solution']
-        if (answer == QnA['answer']):
-            self.user_data['totalScore'] =  self.user_data['totalScore'] + QnA['score']
-            self.user_data['scoreForThisAnswer'] = QnA['score']          
-            self.user_data['totalCorrectAnswers'] =  self.user_data['totalCorrectAnswers']  + 1
-        else:
-            # no score since answer is incorrect. 
-            # UI can check for this value and display incorrect message
-            # and with correct answer
-            self.user_data['scoreForThisAnswer'] = 0
-            self.user_data['totalWrongAnswers'] =  self.user_data['totalWrongAnswers'] 
+
     
     # TODO: Actually do this
     def compare_cars(self):
