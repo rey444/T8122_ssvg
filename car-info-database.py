@@ -44,7 +44,9 @@ class CarInfo:
 
     # constructor of a User object, initializes the instance variables within object (self)
     def __init__(self, name, uid, password="123qwerty", dob=date.today()):
-        self._name = name    # variables with self prefix become part of the object, 
-        self._uid = uid
-        self.set_password(password)
-        self._dob = dob
+        self._milePref = 'milePref'   # variables with self prefix become part of the object, 
+        self._typePref = 'typePref'
+        self._powPref = 'powPref'
+        self._peoplePref = 'peoplePref'
+        self._transPref = 'transPref'
+        self._rangePref = 'rangePref'
