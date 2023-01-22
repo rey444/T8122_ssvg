@@ -43,7 +43,7 @@ class CarInfo:
     posts = db.relationship("Post", cascade='all, delete', backref='users', lazy=True)
 
     # constructor of a User object, initializes the instance variables within object (self)
-    def __init__(self, name, uid, password="123qwerty", dob=date.today()):
+    def __init__(self, milePref, typePref, powPref, peoplePref, transPref, rangePref):
         self._milePref = 'milePref'   # variables with self prefix become part of the object, 
         self._typePref = 'typePref'
         self._powPref = 'powPref'
