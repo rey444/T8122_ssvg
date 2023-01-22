@@ -14,7 +14,7 @@ class CarInfo:
             'powPref': '',
             'peoplePref': '', 
             'transPref': '',
-            'rangePref':''
+            'rangePref':'',
     }
     # Initialize questions
     def init(self):
