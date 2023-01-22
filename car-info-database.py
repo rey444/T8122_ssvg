@@ -1,7 +1,7 @@
 import json
 import os
 import random
-db = SQLAlchemy(app) 
+
 
 # I'm still setting up and changing things, there is a TODO below, most important is assigning and comparing
 
