@@ -30,23 +30,7 @@ class CarInfo:
         return self.car_info[name]
 
     # TODO: make this work ,Here is where I'm trying to get the info of users assigned
-    def assign_preference(self):
-        self.user_data['milePref'] =  answer
-        self.user_data['typePref'] =  QnA['answer']
-        self.user_data['powPref'] =  QnA['solution']
 
     
     # TODO: Actually do this
-    def compare_cars(self):
-
-    def get_student_data(self):
-        return {
-            "totalScores":  self.user_data['milePref'] ,
-            "totalCorrectAnswers":  self.user_data['totalCorrectAnswers'] ,
-            "totalWrongAnswers":  self.user_data['totalWrongAnswers'] ,
-        }
-
-
-
-
-car_info_master  = CarInfo()
+  
