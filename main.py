@@ -1,7 +1,7 @@
 import threading
 
 # import "packages" from flask
-from flask import render_template  # import render_template from "public" flask libraries
+from json import render_template  # import render_template from "public" flask libraries
 
 # import "packages" from "this" project
 from __init__ import app  # Definitions initialization
