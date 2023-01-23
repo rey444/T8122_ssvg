@@ -100,21 +100,66 @@
         "range": "N/A"
       },
       {
-        "name": "Chevrolet Suburban",
-        "mileage": "17",
-        "carType": "SUV",
+        "name": "Chevrolet Colorado",
+        "mileage": "21",
+        "carType": "Pickup Truck",
         "powSource": "Gas",
-        "people": "8-9",
+        "people": "5",
         "transmission": "Automatic",
         "range": "N/A"
       },
       {
-        "name": "Chevrolet Suburban",
+        "name": "Chevrolet Silverado",
+        "mileage": "15",
+        "carType": "Pickup Truck",
+        "powSource": "Gas",
+        "people": "5",
+        "transmission": "Automatic",
+        "range": "N/A" 
+      },
+      {
+        "name": "Chevrolet Silverado EV",
+        "mileage": "N/A",
+        "carType": "Pickup Truck",
+        "powSource": "Electric",
+        "people": "5",
+        "transmission": "1-Speed",
+        "range": "400"
+      },
+      {
+        "name": "Chevrolet Tahoe",
         "mileage": "17",
         "carType": "SUV",
         "powSource": "Gas",
-        "people": "5",
-        "transmission": "Blabla",
-        "range": "62" 
-      } ]
+        "people": "7-8",
+        "transmission": "Automatic",
+        "range": "N/A"
+      },
+      {
+        "name": "Chevrolet Tahoe",
+        "mileage": "17",
+        "carType": "SUV",
+        "powSource": "Gas",
+        "people": "7-8",
+        "transmission": "Automatic",
+        "range": "N/A"
+      },
+      {
+        "name": "Chevrolet Tahoe",
+        "mileage": "17",
+        "carType": "SUV",
+        "powSource": "Gas",
+        "people": "7-8",
+        "transmission": "Automatic",
+        "range": "N/A"
+      },
+      {
+        "name": "Chevrolet Tahoe",
+        "mileage": "17",
+        "carType": "SUV",
+        "powSource": "Gas",
+        "people": "7-8",
+        "transmission": "Automatic",
+        "range": "N/A"
+      }, ]
    }   
