@@ -54,7 +54,7 @@ class UserAPI:
             # failure returns error
             return {'message': f'Processed {name}, either a format error or User ID {uid} is duplicate'}, 210
 
-    class _Read(Resource):
+    class _create(Resource):
         def get(self):
             users = User.query.all()    # read/extract all users from database
             json_ready = [user.read() for user in users]  # prepare output in json
@@ -62,4 +62,4 @@ class UserAPI:
 
     # building RESTapi endpoint
     api.add_resource(_Create, '/create')
-    api.add_resource(_Read, '/')
+   
