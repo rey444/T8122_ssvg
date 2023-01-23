@@ -2,9 +2,6 @@ import json
 import os
 import random
 
-
-# I'm still setting up and changing things, there is a TODO below, most important is assigning and comparing
-
 # Setup for information on users that we'll keep
 class CarInfo:
     car_data = []
@@ -30,7 +27,6 @@ class CarInfo:
     def get_name(self, name):
         return self.car_info[name]
 
-    # TODO: make this work ,Here is where I'm trying to get the info of users assigned
     # constructor of a User object, initializes the instance variables within object (self)
     def __init__(self, milePref, typePref, powPref, peoplePref, transPref, rangePref):
         self._milePref = 'milePref'   # variables with self prefix become part of the object, 
