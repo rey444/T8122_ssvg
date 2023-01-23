@@ -1,93 +1,120 @@
 {
     "Car Info": [
       {
-        "name": "Honda Civic",
-        "mileage": "31",
-        "carType": "Sedan",
+        "name": "Chevrolet Blazer",
+        "mileage": "25",
+        "carType": "SUV",
         "powSource": "Gas",
         "people": "5",
         "transmission": "Automatic",
         "range": "N/A"
       },
       {
-        "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
-        "powSource": "Gas",
+        "name": "Chevrolet Blazer EV",
+        "mileage": "N/A",
+        "carType": "SUV",
+        "powSource": "Electric",
         "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "transmission": "1-Speed",
+        "range": "320"
       },
       {
-        "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
-        "powSource": "Gas",
+        "name": "Chevrolet Bolt EV",
+        "mileage": "N/A",
+        "carType": "SUV",
+        "powSource": "Electric",
         "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "transmission": "1-Speed",
+        "range": "247"
       },
       {
-        "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
+        "name": "Chevrolet Equinox",
+        "mileage": "28",
+        "carType": "SUV",
         "powSource": "Gas",
         "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "transmission": "Automatic",
+        "range": "N/A"
       },
       {
-        "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
-        "powSource": "Gas",
+        "name": "Chevrolet Equinox EV",
+        "mileage": "N/A",
+        "carType": "SUV",
+        "powSource": "Electric",
         "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "transmission": "1-Speed",
+        "range": "300"
       },
       {
-        "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
+        "name": "Chevrolet Trailblazer",
+        "mileage": "28",
+        "carType": "SUV",
         "powSource": "Gas",
         "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "transmission": "Automatic",
+        "range": "N/A"
       },
       {
-        "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
+        "name": "Chevrolet Traverse",
+        "mileage": "21",
+        "carType": "SUV",
         "powSource": "Gas",
-        "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "people": "7",
+        "transmission": "Automatic",
+        "range": "N/A"
       },
       {
-        "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
+        "name": "Chevrolet Seeker",
+        "mileage": "36",
+        "carType": "SUV",
         "powSource": "Gas",
         "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "transmission": "Automatic",
+        "range": "N/A"
       },
       {
-        "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
+        "name": "Chevrolet Suburban",
+        "mileage": "17",
+        "carType": "SUV",
         "powSource": "Gas",
-        "people": "5",
-        "transmission": "Blabla",
-        "range": "62"
+        "people": "8-9",
+        "transmission": "Automatic",
+        "range": "N/A"
       },
       {
-        "name": "Honda Civic",
-        "mileage": "25",
-        "carType": "Van",
+        "name": "Chevrolet Tahoe",
+        "mileage": "17",
+        "carType": "SUV",
         "powSource": "Gas",
-        "people": "5",
-        "transmission": "Blabla",
-        "range": "62" 
-      } ]
+        "people": "7-8",
+        "transmission": "Automatic",
+        "range": "N/A"
+      },
+      {
+        "name": "Chevrolet Trailblazer",
+        "mileage": "17",
+        "carType": "SUV",
+        "powSource": "Gas",
+        "people": "8-9",
+        "transmission": "Automatic",
+        "range": "N/A"
+      },
+      {
+        "name": "Chevrolet Suburban",
+        "mileage": "17",
+        "carType": "SUV",
+        "powSource": "Gas",
+        "people": "8-9",
+        "transmission": "Automatic",
+        "range": "N/A"
+      },
+      {
+        "name": "Chevrolet Suburban",
+        "mileage": "17",
+        "carType": "SUV",
+        "powSource": "Gas",
+        "people": "8-9",
+        "transmission": "Automatic",
+        "range": "N/A"
+      }, ]
    }   
