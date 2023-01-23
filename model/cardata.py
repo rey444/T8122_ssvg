@@ -1,9 +1,7 @@
-import json
 import os
 import random
+import json
 
-
-# I'm still setting up and changing things, there is a TODO below, most important is assigning and comparing
 
 # Setup for information on users that we'll keep
 class CarInfo:
@@ -22,8 +20,6 @@ class CarInfo:
         json_url = os.path.join(SITE_ROOT, "", "car-info.json")
         self.car_info = json.load(open(json_url))
         return self.car_info
-
-
  
     # Here is something to get car names, I really don't know
     # I'm reabsorbing info right now, messing around, this probably isn't important
