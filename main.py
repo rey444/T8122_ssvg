@@ -6,17 +6,19 @@ from flask import render_template  # import render_template from "public" flask 
 # import "packages" from "this" project
 from __init__ import app  # Definitions initialization
 from model.jokes import initJokes
-from model.sqliteDB import initUsers
+from model.users import initUsers
 
 # setup APIs
-from api.car import car_api # Blueprint import api definition
+from api.covid import covid_api # Blueprint import api definition
+from api.joke import joke_api # Blueprint import api definition
 from api.user import user_api # Blueprint import api definition
 
 # setup App pages
 from projects.projects import app_projects # Blueprint directory import projects definition
 
 # register URIs
-app.register_blueprint(car_api) # register api routes
+app.register_blueprint(joke_api) # register api routes
+app.register_blueprint(covid_api) # register api routes
 app.register_blueprint(user_api) # register api routes
 app.register_blueprint(app_projects) # register app pages
 
@@ -42,4 +44,4 @@ def activate_job():
 if __name__ == "__main__":
     # change name for testing
     app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///volumes/sqlite.db'
-    app.run(debug=True, host="0.0.0.0", port="8040")
+    app.run(debug=True, host="0.0.0.0", port="8086")
