@@ -127,11 +127,38 @@
         "range": "400"
       },
       {
-        "name": "Chevrolet Tahoe",
-        "mileage": "17",
-        "carType": "SUV",
+        "name": "Chevrolet Camaro",
+        "mileage": "22",
+        "carType": "Coupe or Convertible",
         "powSource": "Gas",
-        "people": "7-8",
+        "people": "2",
+        "transmission": "Automatic or Manual",
+        "range": "N/A"
+      },
+      {
+        "name": "Chevrolet Corvette",
+        "mileage": "19",
+        "carType": "Sports Car",
+        "powSource": "Gas",
+        "people": "2",
+        "transmission": "Manual",
+        "range": "N/A"
+      },
+      {
+        "name": "Chevrolet Malibu",
+        "mileage": "30",
+        "carType": "Sedan",
+        "powSource": "Gas",
+        "people": "5",
+        "transmission": "Automatic",
+        "range": "N/A"
+      },
+      {
+        "name": "Chevrolet Express",
+        "mileage": "14",
+        "carType": "Van",
+        "powSource": "Gas",
+        "people": "15",
         "transmission": "Automatic",
         "range": "N/A"
       },
@@ -161,5 +188,14 @@
         "people": "7-8",
         "transmission": "Automatic",
         "range": "N/A"
-      }, ]
+      },
+      {
+        "name": "Chevrolet Tahoe",
+        "mileage": "17",
+        "carType": "SUV",
+        "powSource": "Gas",
+        "people": "7-8",
+        "transmission": "Automatic",
+        "range": "N/A"
+      } ]
    }   
