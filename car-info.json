@@ -113,8 +113,8 @@
         "mileage": "17",
         "carType": "SUV",
         "powSource": "Gas",
-        "people": "8-9",
-        "transmission": "Automatic",
-        "range": "N/A"
-      }, ]
+        "people": "5",
+        "transmission": "Blabla",
+        "range": "62" 
+      } ]
    }   
